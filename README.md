@@ -6,4 +6,9 @@ The main part of Retly is to create an operating system where you will not be af
 
 The distribution itself must have the i686-cross-compiler installed.
 
-Partner: 
+### Install gcc-cross-compiler: https://github.com/QensyTeam/i686-elf-for-Linux-24.04
+
+### Partner: https://github.com/QensyTeam
+
+### VeonterOS: https://github.com/QensyTeam/Veonter
+
